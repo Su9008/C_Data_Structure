@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\codeProject\\C_Data_Structure\\Sorting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5633E8B2-0B3D-482E-B020-E7441EA2ABF5}|Sorting\\Sorting.vcxproj|D:\\codeProject\\C_Data_Structure\\Sorting\\Sorting\\bubble_sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5633E8B2-0B3D-482E-B020-E7441EA2ABF5}|Sorting\\Sorting.vcxproj|solutionrelative:Sorting\\bubble_sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5633E8B2-0B3D-482E-B020-E7441EA2ABF5}|Sorting\\Sorting.vcxproj|D:\\codeProject\\C_Data_Structure\\Sorting\\Sorting\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5633E8B2-0B3D-482E-B020-E7441EA2ABF5}|Sorting\\Sorting.vcxproj|solutionrelative:Sorting\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5633E8B2-0B3D-482E-B020-E7441EA2ABF5}|Sorting\\Sorting.vcxproj|D:\\codeProject\\C_Data_Structure\\Sorting\\Sorting\\selection_sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5633E8B2-0B3D-482E-B020-E7441EA2ABF5}|Sorting\\Sorting.vcxproj|solutionrelative:Sorting\\selection_sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "bubble_sort.c",
-              "DocumentMoniker": "D:\\codeProject\\C_Data_Structure\\Sorting\\Sorting\\bubble_sort.c",
-              "RelativeDocumentMoniker": "Sorting\\bubble_sort.c",
-              "ToolTip": "D:\\codeProject\\C_Data_Structure\\Sorting\\Sorting\\bubble_sort.c",
-              "RelativeToolTip": "Sorting\\bubble_sort.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "selection_sort.c",
+              "DocumentMoniker": "D:\\codeProject\\C_Data_Structure\\Sorting\\Sorting\\selection_sort.c",
+              "RelativeDocumentMoniker": "Sorting\\selection_sort.c",
+              "ToolTip": "D:\\codeProject\\C_Data_Structure\\Sorting\\Sorting\\selection_sort.c",
+              "RelativeToolTip": "Sorting\\selection_sort.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-16T09:51:39.483Z",
+              "WhenOpened": "2026-03-16T10:17:44.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "test.c",
               "DocumentMoniker": "D:\\codeProject\\C_Data_Structure\\Sorting\\Sorting\\test.c",
               "RelativeDocumentMoniker": "Sorting\\test.c",
               "ToolTip": "D:\\codeProject\\C_Data_Structure\\Sorting\\Sorting\\test.c",
               "RelativeToolTip": "Sorting\\test.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-16T09:50:29.995Z",
               "EditorCaption": ""

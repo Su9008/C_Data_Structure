@@ -2,6 +2,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include"bubble_sort.h"
+#include"selection_sort.h"
+
 
 int main()
 {
@@ -10,7 +12,8 @@ int main()
 	int numsSize = sizeof(nums) / sizeof(nums[0]);
 	int* returnSize = (int*)calloc(1, sizeof(int));
 
-	int* sorted = bubble_sort(nums, numsSize, returnSize);
+	//int* sorted = bubble_sort(nums, numsSize, returnSize);
+	int* sorted = selection_sort(nums, numsSize, returnSize);
 	for (int i = 0; i < numsSize; i++)
 	{
 		printf("%d ", sorted[i]);
